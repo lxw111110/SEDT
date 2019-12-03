@@ -1,1 +1,1 @@
-# WildFireBoard
+# Standard embedded development template
